@@ -1,0 +1,1 @@
+# AM2E-GameContent-Template
